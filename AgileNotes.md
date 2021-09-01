@@ -18,7 +18,9 @@ Short cycles through the steps of requirements, design, development, testing, de
 ## DevOps Concepts 
 
 * Infrasturcture as Code
+    * Cloud compute, virtual switches, etc.
 * DRY (Don't repeast yourself)
+    * Write code/configuration that can easily be repeated.
 * Customer first
 * Shared responsibility (don't play the blame game)
 
