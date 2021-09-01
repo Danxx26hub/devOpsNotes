@@ -15,3 +15,10 @@ Repeated cycles of identification, design, build, and evaluation
 Short cycles through the steps of requirements, design, development, testing, deployment, and review.
 
 
+# DevOps Concpets 
+
+* Infrasturcture as Code
+* DRY (Don't repeast yourself)
+* Customer first
+* Shared responsibility (don't play the blame game)
+
