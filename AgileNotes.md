@@ -26,3 +26,12 @@ Short cycles through the steps of requirements, design, development, testing, de
 * Customer first
 * Shared responsibility (don't play the blame game)
 
+## Characteristics of Good Commit Messages
+
+#### Good commit messages should:
+
+* Have a subject and a body; summarize the changes in 50 characters or less, then provide detail.
+* Use imperative language (e.g. "refactor get_data function for readability")
+* Wrap long messages. It's ok to write long commit messages, but use newlines to wrap them.
+* Explain what was changed and why.
+
