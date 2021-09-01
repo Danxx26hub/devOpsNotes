@@ -1,6 +1,7 @@
 # Agile and SDLC
 
-## SDLC 
+
+### SDLC 
 
 * Waterfall :  
 A linear model which flows only in one direction until the maintenance stage, with a single integration and test step.
@@ -15,7 +16,8 @@ Repeated cycles of identification, design, build, and evaluation
 Short cycles through the steps of requirements, design, development, testing, deployment, and review.
 
 
-## DevOps Concepts 
+
+### DevOps Concepts 
 
 * Infrasturcture as Code
     * Cloud compute, virtual switches, etc.
