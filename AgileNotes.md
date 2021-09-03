@@ -35,3 +35,14 @@ Short cycles through the steps of requirements, design, development, testing, de
 * Wrap long messages. It's ok to write long commit messages, but use newlines to wrap them.
 * Explain what was changed and why.
 
+### Types of Customers 
+
+#### Internal Customers:
+* Leadership
+* Developers
+* Data Science 
+
+#### External Customers:
+* Individuals who buy your product or service 
+* Other Businesses who resell your product or service
+
