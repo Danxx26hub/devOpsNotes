@@ -46,3 +46,11 @@ Short cycles through the steps of requirements, design, development, testing, de
 * Individuals who buy your product or service 
 * Other Businesses who resell your product or service
 
+### Using Agile in a non-Agile environment
+#### Certain orgs. may not easily move to Agile and never mid-project!
+
+* Create a culture of version control and documentation
+* Ensure code is DRY
+* Use Infrastructure as Code
+* Automate testing
+
