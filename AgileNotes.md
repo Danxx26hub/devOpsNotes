@@ -54,3 +54,15 @@ Short cycles through the steps of requirements, design, development, testing, de
 * Use Infrastructure as Code
 * Automate testing
 
+# Azure Concepts 
+
+## Load Balancers 
+
+* Load Balancers support IPV4 / IPV6
+* Load Balancers increase availability by distributing network traffic across resources
+* Some Load Balancers are called Application gateways and are context aware
+* LB's may operate on at the Application layer of the OSI.
+
+
+## Azure Monitor / tools 
+
