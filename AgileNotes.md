@@ -66,3 +66,26 @@ Short cycles through the steps of requirements, design, development, testing, de
 
 ## Azure Monitor / tools 
 
+
+
+
+# Terraform
+
+## Infrastructure as Code 
+
+* Infrastructure as code, Automate and not tie up resources
+* Code has to live somewhere, so we use Version control
+* Multiple forms of documentation.
+  * Scripts can be in any language (custom scripts)
+  * configuration management tools ex. Ansible (idempotence - that is, if we perform the same operation over and over again, we still get the same result ) 
+  * Server templating tools such as Packer
+  * Orchestration tools, suck as Kubernette's 
+  * Provisioning tools, create the infrastructure ex. Terraform(Servers, Load balancers, etc)
+
+## Details of Terraform:
+* TF is a configuration tool, uses a config file (JSON)
+* Uses the HCL language, uses providers to talk to different types of clouds or in house infrastructure
+* multi-plaform & multi-provider
+* can create immutable infrastructure
+
+
